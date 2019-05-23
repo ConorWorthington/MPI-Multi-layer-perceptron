@@ -1,0 +1,3 @@
+﻿  main.cpp
+f:\new folder\mpi- multi layer perceptron\mpi- multi layer perceptron\main.cpp(210): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  MPI- Multi Layer Perceptron.vcxproj -> F:\New folder\MPI- Multi Layer Perceptron\Debug\MPI- Multi Layer Perceptron.exe
